@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Card View</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">Be A champion</string>
+    <string name="backdrop_subtitle">champion muscles daily exercise</string>
+    <string name="title_activity_details_activty">DetailsActivty</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="share_via">Share App</string>
+    <string name="rate">Rate Us</string>
+
+
+
+
+
+
+
+
+<string name="chest">
+    Though the chest is made up of one single mass of muscle it should be trained like it was broken into 3 parts
+ The upper middle and lower portions of the chest are stimulated best from changing the angle in which you execute the exercise
+
+The upper chest is best stimulated from exercises done on a 30-45 incline bench For example incline barbell and dumbbell
+    bench press or incline dumbbell flyes are great upper chest exercises
+
+The middle chest is best stimulated from exercises done on a flat bench
+    For example flat barbell and dumbbell bench press or flat dumbbell flyes are great middle chest exercises
+
+The lower chest is best stimulated from exercises done on a 30-45 decline bench For example
+    decline barbell and dumbbell bench press or decline dumbbell flyes are great lower chest exercises
+</string>
+
+
+    <string name="bicepes">
+        Stop wasting time and energy on arm routines full of fluff and needless repetition
+        Memorize these rules and start building bigger biceps today
+
+        Thousands of articles have been written about the so-called secrets of building softball-sized biceps
+        Well this piece is a bit different because theres nothing secretive about it
+        No proprietary blends or fancy gimmicks here Just a simple collection of rules that will help you build better arms and your own arm routine for years to come
+
+        If youre ready to build a pair of monster biceps check out these 10 arm-training keys and then try the workout itself on for serious size Your sleeves may regret it
+        but you most definitely wont
+    </string>
+
+
+
+    <string name="tricepes">
+        The triceps may not have the same cultural cache as their cousins on the other side of the humerus
+        but in the strength world theyre just as important if not more so! Whether youre a bodybuilder or just someone looking to get stronger in your presses
+        its worth your time to add some size to the back of your arms
+
+You can put together a hundred different triceps routines by fine-tuning variables like exercise choice and order rep ranges intensity volume and rest periods
+        But rather than making you sit down to try and figure all of that out Ive done the work for you here with six straightforward and effective triceps workouts
+    </string>
+
+
+    <string name="back">
+        Now this workout isnt an exact workout of what you should be doing it is just merely a reference as to how to incorporate hardcore training principles into your own workout
+        and to get the most out of your back workouts Why do a workout and not get anything out of it and keep doing it over again
+        You must realize that something must be wrong in you training I feel that this article will help many readers who are not getting very good
+        results with their current back workouts and it will help them progress faster which is the main reason why people workout
+    </string>
+
+
+    <string name="abs">
+        Because transforming your core takes a whole lot
+        more than just your standard situp we bring you six unique moves that target and engage your muscles from all angles for next level results
+        Bonus Theyre also way more fun than doing crunches ad nauseam Traci Copeland Nike Master Trainer
+        breaks down the not so basic moves that will ensure your entire core not only looks amazing yes even those pesky lower abs but is damn strong too
+    </string>
+
+
+    <string name="leg">The human leg in the general sense is the entire lower extremity or limb of the human body including the foot
+        thigh and even the hip or gluteal region
+        However
+        the definition in human anatomy refers only to the section of the lower limb extending from the knee to the ankle
+        called crus in Latin the posterior of the crus is the sura
+        Legs are used for standing walking jumping running kicking and dancing and similar activities
+        and constitute a significant portion of a persons mass Female legs generally have greater hip anteversion and tibiofemoral angles
+        but shorter femur and tibial lengths than those in males
+    </string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+
+
+
+
+</resources>
